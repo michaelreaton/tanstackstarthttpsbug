@@ -1,1 +1,1 @@
-# tanstackstarthttpsbug
+this code demonstrates a tanstack start bug when using https locally
